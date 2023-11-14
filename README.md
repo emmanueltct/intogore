@@ -4,7 +4,7 @@
 Intogorefintech is a leading digital assets company based in Rwanda. At Intogorefintech, we understand the transformative power of digital assets and their potential to reshape the financial landscape.
 </p>
 
-## About Laravel
+## About INTOGORE FINTECH 
 Intogorefintech is a leading digital assets company based in Rwanda. We specialize in providing comprehensive digital assets media and information, top-notch consulting and training services, as well as expert financial markets trading and investing solutions. Established in 2022, our company has quickly gained recognition for its commitment to delivering exceptional value and innovation in the fast-growing field of digital assets.
 
 At Intogorefintech, we understand the transformative power of digital assets and their potential to reshape the financial landscape. Our mission is to empower individuals and businesses to navigate this exciting domain with confidence and success. We offer a range of services tailored to meet the diverse needs of our clients, whether they are new to the world of digital assets or experienced traders and investors.
