@@ -1,4 +1,4 @@
-<p align="center"><a href="https://www.intogore.com/" target="_blank">INTOGORE FINTECH </a></p>
+<p align="center"><a href="https://www.intogore.com/" target="_blank"><h1>INTOGORE FINTECH</h1> </a></p>
 
 <p align="center">
 Intogorefintech is a leading digital assets company based in Rwanda. At Intogorefintech, we understand the transformative power of digital assets and their potential to reshape the financial landscape.
@@ -18,6 +18,5 @@ We believe that digital assets have the potential to revolutionize the way we th
 ## Project access link
 https://www.intogore.com/
 
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+## Crypto branded products
+https://www.intogore.com/Products?All
