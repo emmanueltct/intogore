@@ -1,6 +1,6 @@
-<h3 align="center"><a href="https://www.intogore.com/" target="_blank">INTOGORE FINTECH </a></h3>
+<h1 align="center"><a href="https://www.intogore.com/" target="_blank">INTOGORE FINTECH </a></h1>
 
-<p align="center">
+<p align="left">
 Intogorefintech is a leading digital assets company based in Rwanda. At Intogorefintech, we understand the transformative power of digital assets and their potential to reshape the financial landscape.
 </p>
 
